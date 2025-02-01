@@ -1,2 +1,2 @@
-# ASL
-Computer Vision ASL
+# ASL-Language
+Computer Vision ASL Language
